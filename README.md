@@ -1,5 +1,5 @@
 # README: Understanding the Dynamics of Connected Pendulums
-
+![Connected Pendulums](img/fitted\ data.png)
 ## Purpose
 This README provides an overview of the experimentation and analysis of two connected pendulums compared to a single pendulum. The goal is to explore how the behavior of two pendulums changes when connected and observe the energy transfer between them.
 
